@@ -13,3 +13,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.2 MB
 Question : https://leetcode.com/problems/insertion-sort-list/solution/ \
 22 / 22 test cases passed.\
 Status: Accepted, Runtime: 30 ms (36.06% faster), Memory Usage: 38.8 MB 
+
+03/11/2020 (Consecutive Characters) \
+Question : https://leetcode.com/problems/consecutive-characters/solution/ \
+333 / 333 test cases passed.\
+Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 37.6 MB 
