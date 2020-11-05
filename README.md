@@ -23,3 +23,8 @@ Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 37.6 MB
 Question : https://leetcode.com/problems/minimum-height-trees/ \
 68 / 68 test cases passed.\
 Status: Accepted, Runtime: 16 ms (63.16% faster), Memory Usage: 40.9 MB 
+
+05/11/2020 (Minimum Cost to Move Chips to The Same Position) \
+Question : https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/ \
+51 / 51 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.5 MB 
