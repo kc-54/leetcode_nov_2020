@@ -28,3 +28,8 @@ Status: Accepted, Runtime: 16 ms (63.16% faster), Memory Usage: 40.9 MB
 Question : https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/ \
 51 / 51 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.5 MB 
+
+06/11/2020 (Find the Smallest Divisor Given a Threshold) \
+Question : https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/ \
+61 / 61 test cases passed.\
+Status: Accepted, Runtime: 12 ms (52.21% faster), Memory Usage: 41.9 MB 
