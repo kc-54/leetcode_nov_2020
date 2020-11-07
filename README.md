@@ -33,3 +33,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.5 MB
 Question : https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/ \
 61 / 61 test cases passed.\
 Status: Accepted, Runtime: 12 ms (52.21% faster), Memory Usage: 41.9 MB 
+
+07/11/2020 (Add Two Numbers II) \
+Question : https://leetcode.com/problems/add-two-numbers-ii/ \
+1563 / 1563 test cases passed.\
+Status: Accepted, Runtime: 2 ms (98.96% faster), Memory Usage: 39.6 MB 
