@@ -43,3 +43,8 @@ Status: Accepted, Runtime: 2 ms (98.96% faster), Memory Usage: 39.6 MB
 Question : https://leetcode.com/problems/binary-tree-tilt/ \
 77 / 77 test cases passed.\
 Status: Accepted, Runtime: 2 ms (17.38% faster), Memory Usage: 39.9 MB 
+
+09/11/2020 (Maximum Difference Between Node and Ancestor) \
+Question : https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/ \
+27 / 27 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 39.2 MB 
