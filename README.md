@@ -48,3 +48,8 @@ Status: Accepted, Runtime: 2 ms (17.38% faster), Memory Usage: 39.9 MB
 Question : https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/ \
 27 / 27 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 39.2 MB 
+
+10/11/2020 (Flipping an Image) \
+Question : https://leetcode.com/problems/flipping-an-image/ \
+82 / 82 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 39.7 MB 
