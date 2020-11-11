@@ -53,3 +53,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 39.2 MB
 Question : https://leetcode.com/problems/flipping-an-image/ \
 82 / 82 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 39.7 MB 
+
+11/11/2020 (Valid Square) \
+Question : https://leetcode.com/problems/valid-square/ \
+244 / 244 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.5 MB 
