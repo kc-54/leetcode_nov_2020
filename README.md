@@ -58,3 +58,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 39.7 MB
 Question : https://leetcode.com/problems/valid-square/ \
 244 / 244 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 36.5 MB 
+
+12/11/2020 (Permutations II)
+Question : https://leetcode.com/problems/permutations-ii/ \
+33 / 33 test cases passed.\
+Status: Accepted, Runtime: 3 ms (37.69% faster), Memory Usage: 39.9 MB 
