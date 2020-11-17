@@ -72,9 +72,14 @@ Status: Accepted, Runtime: 1 ms (53.34% faster), Memory Usage: 39.8 MB
 14/11/2020 (Poor Pigs) \
 Question : https://leetcode.com/problems/poor-pigs/ \
 17 / 17 test cases passed.\
-Status: Accepted, Runtime: 0 ms (100.0 faster), Memory Usage: 35.8 MB 
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 35.8 MB 
 
 16/11/2020 (Longest Mountain in Array) \
 Question : https://leetcode.com/problems/longest-mountain-in-array/ \
 72 / 72 test cases passed.\
-Status: Accepted, Runtime: 2 ms (85.73 faster), Memory Usage: 39.8 MB 
+Status: Accepted, Runtime: 2 ms (85.73% faster), Memory Usage: 39.8 MB 
+
+17/11/2020 (Mirror Reflection) \
+Question : https://leetcode.com/problems/mirror-reflection/ \
+69 / 69 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 35.7 MB 
