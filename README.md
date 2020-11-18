@@ -83,3 +83,8 @@ Status: Accepted, Runtime: 2 ms (85.73% faster), Memory Usage: 39.8 MB
 Question : https://leetcode.com/problems/mirror-reflection/ \
 69 / 69 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 35.7 MB 
+
+18/11/2020 (Merge Intervals) \
+Question : https://leetcode.com/problems/merge-intervals/ \
+168 / 168 test cases passed.\
+Status: Accepted, Runtime: 6 ms (47.62% faster), Memory Usage: 42.2 MB 
