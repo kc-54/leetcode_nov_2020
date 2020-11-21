@@ -98,3 +98,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 37.1 MB
 Question : https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ \
 275 / 275 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 39.1 MB 
+
+21/11/2020 (Numbers At Most N Given Digit Set) \
+Question : https://leetcode.com/problems/numbers-at-most-n-given-digit-set/ \
+83 / 83 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 35.8 MB 
