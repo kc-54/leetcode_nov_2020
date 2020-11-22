@@ -103,3 +103,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 39.1 MB
 Question : https://leetcode.com/problems/numbers-at-most-n-given-digit-set/ \
 83 / 83 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 35.8 MB 
+
+22/11/2020 (Unique Morse Code Words) \
+Question : https://leetcode.com/problems/unique-morse-code-words/ \
+83 / 83 test cases passed.\
+Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 36.8 MB 
