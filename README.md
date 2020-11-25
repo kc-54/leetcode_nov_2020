@@ -118,3 +118,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 38.8 MB
 Question : https://leetcode.com/problems/basic-calculator-ii/ \
 109 / 109 test cases passed.\
 Status: Accepted, Runtime: 8 ms (74.22% faster), Memory Usage: 39.6 MB 
+
+25/11/2020 (Smallest Integer Divisible by K) \
+Question : https://leetcode.com/problems/smallest-integer-divisible-by-k/ \
+70 / 70 test cases passed.\
+Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 35.7 MB 
