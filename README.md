@@ -123,3 +123,8 @@ Status: Accepted, Runtime: 8 ms (74.22% faster), Memory Usage: 39.6 MB
 Question : https://leetcode.com/problems/smallest-integer-divisible-by-k/ \
 70 / 70 test cases passed.\
 Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 35.7 MB 
+
+26/11/2020 (Longest Substring with At Least K Repeating Characters) \
+Question : https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/ \
+31 / 31 test cases passed.\
+Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 37.2 MB 
