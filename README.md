@@ -128,3 +128,8 @@ Status: Accepted, Runtime: 1 ms (100.0% faster), Memory Usage: 35.7 MB
 Question : https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/ \
 31 / 31 test cases passed.\
 Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 37.2 MB 
+
+27/11/2020 (Partition Equal Subset Sum) \
+Question : https://leetcode.com/problems/partition-equal-subset-sum/ \
+115 / 115 test cases passed.\
+Status: Accepted, Runtime: 38 ms (43.22% faster), Memory Usage: 37.8 MB 
