@@ -133,3 +133,8 @@ Status: Accepted, Runtime: 0 ms (100.0% faster), Memory Usage: 37.2 MB
 Question : https://leetcode.com/problems/partition-equal-subset-sum/ \
 115 / 115 test cases passed.\
 Status: Accepted, Runtime: 38 ms (43.22% faster), Memory Usage: 37.8 MB 
+
+28/11/2020 (Sliding Window Maximum) \
+Question : https://leetcode.com/problems/sliding-window-maximum/ \
+239 / 239 test cases passed.\
+Status: Accepted, Runtime: 8 ms (98.07% faster), Memory Usage: 53.8 MB 
