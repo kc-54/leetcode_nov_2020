@@ -1,5 +1,5 @@
 # Leetcode_nov_2020
-Leetcode_challenge_oct_2020
+Leetcode_challenge_nov_2020
 
 Not the best nor the most optimized answer, feedback is welcome.
 
